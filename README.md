@@ -1,7 +1,7 @@
 # Warehouse SQL Pipeline for Operational Analytics  
 *(Python → MySQL)*
 
-## 30-Second Overview
+## 30-Second Quick View
 
 This project demonstrates an end-to-end **warehouse analytics SQL pipeline**
 designed to replace manual, Excel-heavy reporting workflows.
