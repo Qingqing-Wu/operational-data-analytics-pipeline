@@ -18,6 +18,11 @@ and downstream Python modeling, while remaining **safe to re-run** and fully
 > **Note:** No raw operational data are included in this repository.
 > The focus is on pipeline design, data modeling, and ingestion logic.
 
+## Core Skills Demonstrated:
+
+Data Analytics · SQL Data Modeling · Analytics Engineering · Data Quality Control · ETL Pipeline Design · Power BI Integration
+
+
 ![Pipeline Demo](docs/demo.gif)
 
 ---
